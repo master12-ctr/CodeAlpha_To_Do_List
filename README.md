@@ -42,10 +42,10 @@ A feature-rich task management application with priority levels, filtering, and 
 - CSS animations
 
 ## 📸 Preview
-![Dashboard View](assets/screenshot1.png)
+![Dashboard View](assets/screenshot1.PNG)
 *Dashboard and task input*
 
-![Task Management](assets/screenshot2.png)
+![Task Management](assets/screenshot2.PNG)
 *Task list with filtering options*
 
 ---
